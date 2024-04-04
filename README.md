@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning React
+I'm Practical Enginner + Devops pro
 
 
 ## 🌐 Socials:

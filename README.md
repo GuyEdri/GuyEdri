@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Practical Enginner + Devops pro
+I'm Practical Software Enginner + Devops pro
 
 
 ## 🌐 Socials:
